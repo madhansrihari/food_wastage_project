@@ -1,0 +1,4 @@
+Claim_ID,Receiver_ID,Food_ID,Claim_Date,Status
+1,1,1,2025-08-22,Approved
+2,2,2,2025-08-22,Pending
+3,3,3,2025-08-22,Approved
